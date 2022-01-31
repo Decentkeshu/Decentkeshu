@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Keshav </h1>
-<h3 align="center">The god of hell. </h3>
+<h3 align="center">  :octocat:
+Open Sourcing
+An enthusiast student developer looking forward to contribute to open source! </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=decentkeshu&label=Profile%20views&color=0e75b6&style=flat" alt="decentkeshu" /> </p>
 
