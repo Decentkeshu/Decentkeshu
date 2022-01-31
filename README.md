@@ -9,6 +9,7 @@ Open Sourcing
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=decentkeshu" alt="decentkeshu" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/imkeshav8" target="blank"><img src="https://img.shields.io/twitter/follow/imkeshav8?logo=twitter&style=for-the-badge" alt="imkeshav8" /></a> </p>
+![coding gif](https://images.app.goo.gl/B2jC28HVFbCcB8Xf7)
 
 - 📫 How to reach me **msd76017@gmail.com**
 
