@@ -20,8 +20,7 @@ Open Sourcing
 <a href="https://linkedin.com/in/keshav kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="keshav kumar" height="30" width="40" /></a>
 <a href="https://fb.com/keshav kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="keshav kumar" height="30" width="40" /></a>
 <a href="https://instagram.com/decentkeshu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="decentkeshu" height="30" width="40" /></a>
-
-  <a href="https://www.youtube.com/c/keshav kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="keshav kumar" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/keshav kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="keshav kumar" height="30" width="40" /></a>
 </p>
 
   
