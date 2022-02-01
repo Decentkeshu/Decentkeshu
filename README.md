@@ -1,14 +1,19 @@
-<h1 align="center">Hi 👋, I'm Keshav </h1>
-<h3 align="center">  :octocat:
-Open Sourcing
+ <h1 align="center">Hi 👋, I'm Keshu</h1>
+<h3 align="center">An enthusiast student developer looking forward to contribute to open source!</h3>
 
-  An enthusiast student developer looking forward to contribute to open source! </h3>
-  <div align="center">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=decentkeshu&label=Profile%20views&color=0e75b6&style=flat" alt="decentkeshu" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=decentkeshu" alt="decentkeshu" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/imkeshav8" target="blank"><img src="https://img.shields.io/twitter/follow/imkeshav8?logo=twitter&style=for-the-badge" alt="imkeshav8" /></a> </p>
+
+- 🔭 I’m currently working on **Web development.**
+
+- 🌱 I’m currently learning **C++.**
+
+- 👯 I’m looking to collaborate on **Building some great stuff.**
+
+- 🤔 Ask me about **The power of laziness.**
 
 - 📫 How to reach me **msd76017@gmail.com**
 
@@ -23,7 +28,6 @@ Open Sourcing
 <a href="https://www.youtube.com/c/keshav kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="keshav kumar" height="30" width="40" /></a>
 </p>
 
-  
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> </p>
 
@@ -34,3 +38,5 @@ Open Sourcing
 ## Yo! Look at this snake eating up my contributions! <img src= "https://c.tenor.com/BczFoyx41WoAAAAj/swallowed-the-mighty-ones.gif" width= "30" height= "30">  :
 
 ![snake gif](https://github.com/AvidCoder101/AvidCoder101/blob/output/github-contribution-grid-snake.gif)
+
+ 
