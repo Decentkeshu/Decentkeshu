@@ -1,28 +1,34 @@
-<h1 align="center">Hey, I'm Keshav Kumar 👋</h1>
+<div align="center">
 
-<p align="center">
-  <em>Student Developer · Open Source Enthusiast · Builder</em>
-</p>
+# Keshav Kumar
 
-<p align="center">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6C47FF&center=true&vCenter=true&width=500&lines=Fullstack+Developer;AI+Application+Builder;Open+Source+Enthusiast;Turning+Ideas+Into+Products+🚀)](https://git.io/typing-svg)
+
+<p>
   <a href="https://twitter.com/imkeshav8"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://linkedin.com/in/keshav-kumar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:msd76017@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://instagram.com/decentkeshu"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=decentkeshu&style=for-the-badge&color=0e75b6" />
+  <img src="https://komarev.com/ghpvc/?username=decentkeshu&style=for-the-badge&color=6C47FF" />
 </p>
+
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a passionate student developer from India, focused on building impactful web applications and contributing to open source. I enjoy turning ideas into real products and learning something new every day.
+I'm a student developer from India building real-world AI-powered fullstack applications. I focus on writing clean, production-ready code and shipping products that solve actual problems.
 
-- 🔭 Currently working on **AI Resume Generator** and **JARVIS AI ASSISTANT**
-- 🌱 Currently learning **C++** and deepening my knowledge of **TypeScript**
-- 💬 Speak **English, Hindi & Spanish**
-- 📫 Reach me at **msd76017@gmail.com**
-- ⚡ Fun fact: I believe laziness is the mother of efficiency
+```ts
+const keshav = {
+  focus:      ["Fullstack Development", "AI Integration", "Backend Architecture"],
+  currentlyBuilding: ["AI Resume Generator", "JARVIS AI Assistant"],
+  learning:   ["System Design", "PostgreSQL", "MongoDB", "Scalable API Architecture"],
+  languages:  ["English", "Hindi", "Spanish"],
+  funFact:    "Laziness is the mother of efficiency 😄"
+}
+```
 
 ---
 
@@ -53,34 +59,66 @@ I'm a passionate student developer from India, focused on building impactful web
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-| Project | Description | Tech |
-|--------|-------------|------|
-| [AI Resume Generator](https://github.com/Decentkeshu/AI-Resume-Generator) | Generate professional resumes with AI-powered summaries and descriptions | Next.js, TypeScript, Clerk |
-| [JARVIS AI Chat](https://github.com/Decentkeshu) | Personal AI chat assistant with file upload and chat history | Next.js, TypeScript |
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">AI Resume Generator</h3>
+      <p align="center">
+        A fullstack app that generates professional resumes with AI-powered summaries, project descriptions, and multiple templates. Includes authentication and PDF export.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white" />
+      </p>
+      <p align="center">
+        <a href="https://github.com/Decentkeshu/AI-Resume-Generator">
+          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">JARVIS AI Assistant</h3>
+      <p align="center">
+        A personal AI chat assistant with file and image upload, persistent chat history, sidebar navigation, and real-time AI responses powered by the Anthropic API.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+      </p>
+      <p align="center">
+        <a href="https://github.com/Decentkeshu">
+          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=decentkeshu&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+<div align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=decentkeshu&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="48%" />
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=decentkeshu&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+</div>
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=decentkeshu&theme=tokyonight&hide_border=true" width="60%" />
-</p>
+</div>
 
 ---
 
 ## 📈 Contribution Graph
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=decentkeshu&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Keshav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=decentkeshu&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
-<p align="center">
-  <em>"Code is like humor. When you have to explain it, it's bad." – Cory House</em>
-</p>
+<div align="center">
+  <em>"First, solve the problem. Then, write the code." – John Johnson</em>
+</div>
