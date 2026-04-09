@@ -18,7 +18,7 @@
 
 I'm a passionate student developer from India, focused on building impactful web applications and contributing to open source. I enjoy turning ideas into real products and learning something new every day.
 
-- 🔭 Currently working on **AI Resume Generator** and **JARVIS AI Chat App**
+- 🔭 Currently working on **AI Resume Generator** and **JARVIS AI ASSISTANT**
 - 🌱 Currently learning **C++** and deepening my knowledge of **TypeScript**
 - 💬 Speak **English, Hindi & Spanish**
 - 📫 Reach me at **msd76017@gmail.com**
