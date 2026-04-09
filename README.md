@@ -77,7 +77,7 @@ I'm a passionate student developer from India, focused on building impactful web
 
 ## 📈 Contribution Graph
 
-[![Keshav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=decentkeshu&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6C47FF&center=true&vCenter=true&width=435&lines=Student+Developer;Open+Source+Contributor;Building+cool+stuff+🚀)](https://git.io/typing-svg)
 
 ---
 
