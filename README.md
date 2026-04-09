@@ -18,17 +18,13 @@
 
 ## 👨‍💻 About Me
 
-I'm a student developer from India building real-world AI-powered fullstack applications. I focus on writing clean, production-ready code and shipping products that solve actual problems.
+I'm a passionate student developer from India, focused on building impactful web applications and contributing to open source. I enjoy turning ideas into real products and learning something new every day.
 
-```ts
-const keshav = {
-  focus:      ["Fullstack Development", "AI Integration", "Backend Architecture"],
-  currentlyBuilding: ["AI Resume Generator", "JARVIS AI Assistant"],
-  learning:   ["System Design", "PostgreSQL", "MongoDB", "Scalable API Architecture"],
-  languages:  ["English", "Hindi", "Spanish"],
-  funFact:    "Laziness is the mother of efficiency 😄"
-}
-```
+- 🔭 Currently working on **AI Resume Generator** and **JARVIS AI Assistant**
+- 🌱 Currently exploring **system design, databases (PostgreSQL/MongoDB), and building production-ready fullstack applications**
+- 💬 Speak **English, Hindi & Spanish**
+- 📫 Reach me at **msd76017@gmail.com**
+- ⚡ Fun fact: I believe laziness is the mother of efficiency
 
 ---
 
@@ -120,5 +116,5 @@ const keshav = {
 ---
 
 <div align="center">
-  <em>"First, solve the problem. Then, write the code." – John Johnson</em>
+  <em>"Code is like humor. When you have to explain it, it's bad." – Cory House</em>
 </div>
