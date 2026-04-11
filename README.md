@@ -104,7 +104,7 @@ I'm a passionate student developer from India, focused on building impactful web
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=decentkeshu&theme=tokyonight&hide_border=true" width="60%" />
+  <img src="https://streak-stats.demolab.com/?user=decentkeshu&theme=tokyonight&hide_border=true" width="60%" />
 </div>
 
 ---
